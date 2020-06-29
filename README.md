@@ -1,7 +1,7 @@
 ![W3Care](https://w3.care/wp-content/uploads/2020/05/w3care-logo.png)
 
 # Desafio Front
-Água mole, pedra dura, de grão em grão se chega a roma... ou alguma coisa parecida...
+Água mole, pedra dura, de grão em grão quem tem boca cedo madruga... ou alguma coisa parecida...
 
 
 Neste desafio, o propósito é avaliar a solução empregada na resolução do problema, assim como a qualidade do código e refino da solução final.
